@@ -116,3 +116,6 @@ Mock data is used when API quotas are exceeded, ensuring the app remains functio
 **User-Provided API Keys:**
 
 Users can input their own SerpAPI and OpenAI API keys via the app interface.
+
+## Loom Video
+Check out the project demo here: [Watch the video] https://www.loom.com/share/838cafc36160432ea8f03ab3058a2770?sid=24137364-7f8c-4e6b-b02c-d5e5d67cadfa
